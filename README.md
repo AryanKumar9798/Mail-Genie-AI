@@ -53,6 +53,8 @@ However, you can:
 - Import it directly into your n8n instance
 
 👉 👉 [Download workflow.json](https://raw.githubusercontent.com/AryanKumar9798/Mail-Genie-AI/main/My%20workflow.json)
+
+
  Screenshot-
  <img width="1153" height="601" alt="image" src="https://github.com/user-attachments/assets/a699b918-fde2-4e0d-81cc-d51f1859b506" />
 
