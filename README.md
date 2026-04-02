@@ -44,6 +44,16 @@ Built using **n8n workflows** and **Google Gemini AI**, this system classifies e
  3.Personal productivity assistant
  4.Business email automation
 
+ ## 🔗 Workflow Access
+
+Due to access restrictions in n8n cloud, the workflow cannot be shared via a public link.
+
+However, you can:
+- Download the workflow JSON file
+- Import it directly into your n8n instance
+
+👉 [Download workflow.json](./workflow.json)
+
  Screenshot-
  <img width="1153" height="601" alt="image" src="https://github.com/user-attachments/assets/a699b918-fde2-4e0d-81cc-d51f1859b506" />
 
