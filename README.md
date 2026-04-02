@@ -27,15 +27,15 @@ Built using **n8n workflows** and **Google Gemini AI**, this system classifies e
 
 ## 🔄 Workflow Architecture
 📥 Gmail Trigger
-↓
+->
 ⏱️ Rate Limiter
-↓
+->
 🧠 Text Classification (AI)
-↓
+->
 🔀 Conditional Routing (IF Node)
-↓
+->
 ✉️ AI Response Generation (Gemini)
-↓
+->
 📝 Gmail Draft Creation
 
 💡 Use Cases
