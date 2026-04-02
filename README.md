@@ -44,5 +44,9 @@ Built using **n8n workflows** and **Google Gemini AI**, this system classifies e
  3.Personal productivity assistant
  4.Business email automation
 
+ Screenshot-
+ <img width="1153" height="601" alt="image" src="https://github.com/user-attachments/assets/a699b918-fde2-4e0d-81cc-d51f1859b506" />
+
+
  👨‍💻 Author
  Aryan Kumar
