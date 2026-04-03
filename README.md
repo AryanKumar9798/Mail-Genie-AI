@@ -40,8 +40,11 @@ Built using **n8n workflows** and **Google Gemini AI**, this system classifies e
 
 💡 Use Cases
  1.Automated customer support replies
+ 
  2.Email triaging and sorting
+ 
  3.Personal productivity assistant
+ 
  4.Business email automation
 
  ## 🔗 Workflow Access
