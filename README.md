@@ -39,6 +39,7 @@ Built using **n8n workflows** and **Google Gemini AI**, this system classifies e
 📝 Gmail Draft Creation
 
 💡 Use Cases
+
  1.Automated customer support replies
  
  2.Email triaging and sorting
